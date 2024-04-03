@@ -25,8 +25,5 @@ Skills
   * ArcGIS
   * QGIS
   * R
-* Skill 3
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Wetland Ecology
+* Community Outreach
