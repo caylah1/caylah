@@ -12,7 +12,7 @@ title                    : "Cayla Hyde"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://caylah1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://caylah1.github.io # the base hostname 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caylah1/caylah1.github.io"
 
