@@ -1,7 +1,7 @@
 ---
 title: "Final project GES 386, Introduction to Geographic Information Systems"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/final project Cayla H.pdf'>"
 collection: portfolio
 ---
 
-This project was 
+This project was created during my junior year at UMBC during GES 386, Introduction to Geographic Information Systems. I aggregated different data sets to show the health of vegetation around the Chesapeake Bay as well as inside of it. 
