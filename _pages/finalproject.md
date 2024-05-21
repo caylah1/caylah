@@ -1,16 +1,9 @@
 ---
 layout: archive
-title: "finalproject"
+title: "Final Project GES 486"
 permalink: /finalproject/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Spotted Lantern Fly Sightings and Transportation
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
