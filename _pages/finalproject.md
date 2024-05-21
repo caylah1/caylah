@@ -13,3 +13,4 @@ By using census data on transportation vehicles in Maryland as well as INaturali
 
 Using various geographic software, an analysis was run on the two variables, Local Moran's I, which puts the values of the points in relation to the points next to it, and Global Moran's I, which puts the points next to all the points on the map. 
 
+<br/><img src='https://caylah1.github.io/images/finalproj386.png'>
