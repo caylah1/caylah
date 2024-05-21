@@ -16,3 +16,8 @@ Using various geographic software, an analysis was run on the two variables, Loc
 <br/><img src='https://caylah1.github.io/images/morans local.png'>
 
 <br/><img src='https://caylah1.github.io/images/morans global.png'>
+
+
+In conclusion, the usage of Moran’s I analysis as well as other statistic indicators, shows a strong correlation between spotted lanternfly sightings and transportation routes. This could be the root cause of the rapid population boom in recent years, with the increase of shipping and vehicles traveling each day. Although difficult, making sure all trucks and trains leaving lanternfly-infested zones should be checked for eggs, as well as larvae from the insect. 
+
+
