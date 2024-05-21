@@ -201,7 +201,7 @@ kramdown:
 
 # Collections
 collections:
-  publications:
+  finalproject:
     output: true
     permalink: /:collection/:path/
   portfolio:
